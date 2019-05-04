@@ -1,0 +1,12 @@
+npm start //inicializar server en produccion
+
+(conectar mongodb en otro terminal)
+
+mongod 
+
+(inicializar server en modo desarrollo)
+
+npm run dev 
+
+//no tienes que actualizar en cada cambio guardado se reinicializa el server
+
